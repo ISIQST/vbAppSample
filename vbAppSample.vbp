@@ -20,6 +20,7 @@ Form=frmVbSampleTest2.frm
 Class=clsInfoTest; clsInfoTest.cls
 Class=clsVBSampleTool; clsVBSampleTool.cls
 Form=frmVbSampleTest1.frm
+RelatedDoc=vbAppSample Release Notes.txt
 Startup="(None)"
 HelpFile=""
 Title="vbAppSample"

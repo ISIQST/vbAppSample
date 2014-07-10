@@ -1,5 +1,9 @@
 VBAppSample Release Notes
 
+Version 2.0.1 
+- Fixed: When removing test DAO open data source menu opens
+- Fixed: Can not register InfoTest, no such object error
+
 Version 2.0.0 (May 20 2013)
 - Added: Quasi97 .NET compatibility
 
