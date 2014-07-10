@@ -1,0 +1,13 @@
+VBAppSample Release Notes
+
+Version 2.0.0 (May 20 2013)
+- Added: Quasi97 .NET compatibility
+
+Version 1.1.2 (Nov 10 2008)
+- Added: Data Logging to VBSample1 and VBSample2 (previously could only log the results when runnin production test)
+
+Version 1.1.1 (Jan 30 2008)
+- Added: Adaptive parameters to vbsampletest3
+
+Version 1.1.0 (Sep 17 2007)
+- Added: Stress options example to the VBSampleTest3
